@@ -1,0 +1,8 @@
+{
+  "name": "Myntra - Fashion & 3D Avatar Fit Studio",
+  "description": "Myntra mobile shopping app with smart body-measurement size recommendation engine and interactive 3D virtual avatar fit viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
